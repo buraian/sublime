@@ -20,8 +20,6 @@
 ## Tasks
 
 - [Setup Git Repo For Sync](#setup-git-repo-for-sync)
-- [Export Plugin List](#export-plugin-list)
-- [Install Plugins](#install-plugins)
 
 ### Setup Git Repo For Sync
 
@@ -48,17 +46,3 @@ $ git remote add origin https://github.com/buraian/sublime.git
 ```
 
 Pull from remote and overwrite any local files.
-
-### Export Plugin List
-
-```shell
-$ code --list-extensions > extensions.list
-```
-
-### Install Plugins
-
-```shell
-$ cat extensions.list | xargs -L 1 code --install-extension
-```
-
-[Note: Make sure `code` is available to `PATH`.](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)
