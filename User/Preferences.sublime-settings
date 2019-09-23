@@ -1,0 +1,34 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-eighties.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Source Code Pro",
+	"font_size": 15.0,
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"index_exclude_patterns":
+	[
+		"bower_components/**",
+		"node_modules/**",
+		".sass-cache/**",
+		"*.log"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"spacegray_fileicons": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_medium": true,
+	"spacegray_tabs_xlarge": true,
+	"tab_size": 4,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
+}

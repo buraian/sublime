@@ -1,0 +1,194 @@
+[{
+    "id": "side-bar-files-open-with",
+    "children": [
+
+        // Brave
+        {
+            "caption": "Brave",
+            "id": "side-bar-files-open-with-brave",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/Brave.app",
+                "extensions": ".*",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Chrome Canary
+        {
+            "caption": "Chrome Canary",
+            "id": "side-bar-files-open-with-chrome-canary",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/Google Chrome Canary.app",
+                "extensions": "",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Chrome
+        {
+            "caption": "Chrome",
+            "id": "side-bar-files-open-with-chrome",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/Google Chrome.app",
+                "extensions": "",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Firefox
+        {
+            "caption": "Firefox",
+            "id": "side-bar-files-open-with-firefox",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/Firefox.app",
+                "extensions": "",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Safari Technology Preview
+        {
+            "caption": "Safari Technology Preview",
+            "id": "side-bar-files-open-with-safari-technology-preview",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/Safari Technology Preview.app",
+                "extensions": ".*",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Safari
+        {
+            "caption": "Safari",
+            "id": "side-bar-files-open-with-safari",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/Safari.app",
+                "extensions": ".*",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Separator
+        {
+            "caption": "-"
+        },
+
+        // iTerm
+        {
+            "caption": "iTerm",
+            "id": "side-bar-files-open-with-iterm",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/iTerm.app",
+                "extensions": "",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        {
+            "caption": "-"
+        },
+
+        // SourceTree
+        {
+            "caption": "SourceTree",
+            "id": "side-bar-files-open-with-sourcetree",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/SourceTree.app",
+                "extensions": "",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Sublime Merge
+        {
+            "caption": "Sublime Merge",
+            "id": "side-bar-files-open-with-sublime-merge",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/Sublime Merge.app",
+                "extensions": "",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Separator
+        {
+            "caption": "-"
+        },
+
+        // Photoshop
+        {
+            "caption": "Photoshop",
+            "id": "side-bar-files-open-with-photoshop",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/Adobe Photoshop CC 2018/Adobe Photoshop CC 2018.app",
+                "extensions": "psd|png|jpg|jpeg",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Separator
+        {
+            "caption": "-"
+        },
+
+        // Atom
+        {
+            "caption": "Atom",
+            "id": "side-bar-files-open-with-atom",
+            "command": "side_bar_files_open_with",
+            "args":
+            {
+                "paths": [],
+                "application": "/Applications/Atom.app",
+                "extensions": "*",
+                "args": []
+            },
+            "open_automatically": false
+        },
+
+        // Separator
+        {
+            "caption": "-"
+        }
+    ]
+}]

@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+!README.md
+
+!User/
+!User/*.sublime-settings
+!User/*.sublime-keymap
+
+!User/SideBarEnhancements/
+!User/SideBarEnhancements/Open With/
+!User/SideBarEnhancements/Open With/*.sublime-menu
+
+!User/Snippets/
+!User/Snippets/*.sublime-snippet
