@@ -12,6 +12,8 @@
 		"Babel",
 		"Base16 Color Schemes",
 		"Better CoffeeScript",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4x Snippets",
 		"DocBlockr",
 		"Drupal",
 		"EditorConfig",
@@ -53,6 +55,6 @@
 		"Text Pastry",
 		"Theme - Monokai Pro",
 		"Theme - Spacegray",
-		"TypeScript"
-	]
+		"TypeScript",
+	],
 }
