@@ -3,12 +3,9 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Monokai Pro (Filter Ristretto).sublime-color-scheme",
-	"font_face": "Source Code Pro",
-	"font_size": 15.0,
-	"ignored_packages":
-	[
-		"Markdown"
-	],
+	"font_face": "CamingoCode",
+	"font_size": 16.0,
+	"ignored_packages": [],
 	"index_exclude_patterns":
 	[
 		"bower_components/**",
@@ -19,7 +16,9 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"monokai_pro_minimal": true,
+	"monokai_pro_sidebar_font_size": 12.0,
 	"monokai_pro_sidebar_headings": true,
+	"monokai_pro_sidebar_lighter": false, 
 	"monokai_pro_sidebar_row_padding": 2,
 	"monokai_pro_small_scrollbar": true,
 	"monokai_pro_style_title_bar": true,
@@ -33,5 +32,5 @@
 	"tab_size": 4,
 	"theme": "Monokai Pro (Filter Ristretto).sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "false"
+	"word_wrap": "false",
 }
