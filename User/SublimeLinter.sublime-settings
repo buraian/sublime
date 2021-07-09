@@ -1,5 +1,18 @@
 // SublimeLinter Settings - User
 {
+    "linters": {
+        "eslint": {
+            "env": { "PATH":"~/.n/bin/" }
+        },
+        "csslint": {
+            "env": { "PATH":"~/.n/bin/" }
+        }
+    },
+    "paths": {
+        "osx": [
+            "~/.n/bin/"
+        ]
+    },
     "styles": [
         {
             "mark_style": "squiggly_underline"
