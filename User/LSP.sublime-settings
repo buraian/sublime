@@ -1,0 +1,18 @@
+// Settings in here override those in "LSP/LSP.sublime-settings"
+{
+  "clients": {
+    "theme-check": {
+      "command": [
+        "/usr/local/bin/theme-check-language-server"
+      ],
+      "enabled": true,
+      "languageId": "html",
+      "scopes": [
+        "text.html.basic"
+      ],
+      "syntaxes": [
+        "Packages/HTML/HTML.sublime-syntax"
+      ]
+    }
+  }
+}
