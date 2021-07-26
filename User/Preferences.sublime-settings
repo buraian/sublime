@@ -37,4 +37,7 @@
 	"theme": "Monokai Pro (Filter Ristretto).sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": "false",
+	"neovintageous_build_version": 11100,
+	"vintageous_enable_sneak": true,
+	"vintageous_reset_mode_when_switching_tabs": false,
 }
