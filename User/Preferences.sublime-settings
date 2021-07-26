@@ -6,6 +6,10 @@
 	"font_face": "CamingoCode",
 	"font_size": 16.0,
 	"ignored_packages": [],
+	"ignored_packages": [
+		"Vintage",
+		"Vintageous",
+	],
 	"index_exclude_patterns":
 	[
 		"bower_components/**",
