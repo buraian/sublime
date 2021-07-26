@@ -33,6 +33,7 @@
 		"JsFormat",
 		"JsPrettier",
 		"LESS",
+		"Liquid",
 		"LSP",
 		"LSP-bash",
 		"LSP-dockerfile",
