@@ -47,9 +47,9 @@
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false,
 	"neovintageous_build_version": 13200,
-	// "vintageous_default_mode": "insert",
-	// "vintageous_enable_sneak": true,
-	// "vintageous_reset_mode_when_switching_tabs": false,
-	// "vintageous_use_super_keys": false,
+	"vintageous_default_mode": "insert",
+	"vintageous_enable_sneak": true,
+	"vintageous_reset_mode_when_switching_tabs": false,
+	"vintageous_use_super_keys": false,
 	"index_files": true,
 }
