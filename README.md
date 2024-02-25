@@ -1,4 +1,4 @@
-# Sublime Text 3 Settings Sync
+# Sublime Text Settings Sync
 
 ## Important Files
 
@@ -7,14 +7,14 @@
 ~/.config/sublime
 ```
 
-### Sublime Text 3 Settings Folder
+### Sublime Text Settings Folder
 ```
-~/Library/Application Support/Sublime Text 3/Packages/User
+~/Library/Application Support/Sublime Text/Packages/User
 ```
 
 ### The Symbolic Link
 ```
-~/Library/Application Support/Sublime Text 3/Packages/User -> ~/.config/sublime/User
+~/Library/Application Support/Sublime Text/Packages/User -> ~/.config/sublime/User
 ```
 
 ## Tasks
@@ -23,19 +23,19 @@
 
 ### Setup Git Repo For Sync
 
-Install Sublime Text 3.
+Install Sublime Text.
 
 Move settings folder for Git sync
 
 ```shell
 $ mkdir -p ~/.config/sublime/User
-$ mv -v ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User ~/.config/sublime/User
+$ mv -v ~/Library/Application\ Support/Sublime\ Text/Packages/User ~/.config/sublime/User
 ```
 
 Create Symlink
 
 ```shell
-$ ln -s ~/.config/sublime/User ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
+$ ln -s ~/.config/sublime/User ~/Library/Application\ Support/Sublime\ Text/Packages/User
 ```
 
 Setup Git Repo
