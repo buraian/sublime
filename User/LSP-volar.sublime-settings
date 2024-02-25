@@ -1,0 +1,12 @@
+// Settings in here override those in "LSP-volar/LSP-volar.sublime-settings"
+
+{
+    "settings": {
+        "volar.autoCompleteRefs": true,
+        "volar.format.initialIndent": {
+            "css": true,
+            "javascript": true,
+            "typescript": true,
+        },
+    }
+}
