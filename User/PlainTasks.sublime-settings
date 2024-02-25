@@ -1,3 +1,4 @@
 {
-  "color_scheme": "Packages/PlainTasks/tasks-monokai-pro.hidden-tmTheme"
+  "color_scheme": "Packages/User/tasks-monokai-pro.hidden-tmTheme",
+  "draw_indent_guides": true
 }

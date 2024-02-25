@@ -6,6 +6,7 @@
 !User/
 !User/*.sublime-settings
 !User/*.sublime-keymap
+!User/*.hidden-tmTheme
 
 !User/SideBarEnhancements/
 !User/SideBarEnhancements/Open With/
