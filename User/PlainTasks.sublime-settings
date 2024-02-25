@@ -1,4 +1,6 @@
 {
   "color_scheme": "Packages/User/tasks-monokai-pro.hidden-tmTheme",
-  "draw_indent_guides": true
+  "draw_indent_guides": true,
+  "scope_due_soon": "string.other.tag.todo.soon",
+  "icon_due_soon": "circle"
 }

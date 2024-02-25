@@ -16,7 +16,7 @@
 				<key>foreground</key>
 				<string>#FCFCFA50</string>
 				<key>invisibles</key>
-				<string>#FCFCFA4D</string>
+				<string>#FCFCFA50</string>
 				<key>lineHighlight</key>
 				<string>#FCFCFA11</string>
 				<key>selection</key>
@@ -33,7 +33,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FCFCFA90</string>
+				<string>#FCFCFA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -44,7 +44,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FC9867</string>
+				<string>#AB9DF2</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCFCFA4D</string>
+				<string>#FCFCFA50</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -94,9 +94,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCFCFA66</string>
-				<key>fontStyle</key>
-				<string></string>
+				<string>#FCFCFA50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +131,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCFCFA4D</string>
+				<string>#FCFCFA50</string>
 				<key>fontStyle</key>
 				<string></string>
 			</dict>
@@ -187,7 +185,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCFCFA4D</string>
+				<string>#FCFCFA50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -198,7 +196,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCFCFA4D</string>
+				<string>#FCFCFA50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -209,7 +207,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCFCFA99</string>
+				<string>#FCFCFA50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -231,9 +229,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCFCFA99</string>
+				<string>#FCFCFA50</string>
 				<key>fontStyle</key>
-				<string>normal</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,7 +272,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FCFCFA4D</string>
+				<string>#FCFCFA50</string>
 				<key>foreground</key>
 				<string>#FCFCFA1A</string>
 			</dict>
@@ -509,45 +507,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Today</string>
-			<key>scope</key>
-			<string>string.other.tag.todo.today</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#FFD866</string>
-				<key>foreground</key>
-				<string>#2D2A2E</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>High</string>
 			<key>scope</key>
-			<string>string.other.tag.todo.high</string>
+			<string>string.other.tag.todo.soon</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FC9867</string>
+				<string>#AB9DF290</string>
 				<key>foreground</key>
-				<string>#2D2A2E</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Low</string>
-			<key>scope</key>
-			<string>string.other.tag.todo.low</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#FFD866</string>
-				<key>foreground</key>
-				<string>#2D2A2E</string>
+				<string>#AB9DF2</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
@@ -560,9 +528,54 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FF6188</string>
+				<string>#FF618840</string>
 				<key>foreground</key>
-				<string>#2D2A2E</string>
+				<string>#FF6188</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>High</string>
+			<key>scope</key>
+			<string>string.other.tag.todo.high</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FC986740</string>
+				<key>foreground</key>
+				<string>#FC9867</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Low</string>
+			<key>scope</key>
+			<string>string.other.tag.todo.low</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFD86640</string>
+				<key>foreground</key>
+				<string>#FFD866</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Today</string>
+			<key>scope</key>
+			<string>string.other.tag.todo.today</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#A9DC7640</string>
+				<key>foreground</key>
+				<string>#A9DC76</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 			</dict>
