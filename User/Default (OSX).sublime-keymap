@@ -1,5 +1,5 @@
 [
   { "keys": ["super+shift+v"], "command": "paste" },
   { "keys": ["super+v"], "command": "paste_and_indent" },
-  { "keys": ["super+ctrl+shift+a"], "command": "alignment" }
+  { "keys": ["ctrl+alt+p"], "command": "js_prettier" }
 ]

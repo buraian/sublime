@@ -1,4 +1,6 @@
 {
-    "auto_format_on_save": true,
-    "node_path": "~/.n/bin/node"
+    "node_path": "$FNM_MULTISHELL_PATH/bin/node",
+    "singleAttributePerLine": true,
+    "bracketSpacing": true,
+    "bracketSameLine": true
 }
